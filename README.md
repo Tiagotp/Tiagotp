@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiagotp
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end (HTML, CSS, JAVASCRIPT)
+- 🌱 I’m currently learning front-end (HTML, CSS, JAVASCRIPT, BOOTSTRAP)
 - 💞️I'm looking to collaborate in anything...
 - 📫 How to reach me ...
 

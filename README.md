@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end (HTML, CSS, JAVASCRIPT, BOOTSTRAP)
 - 💞️I'm looking to collaborate in anything...
-- 📫 How to reach me ...
+- 📫 How to reach me ttavanopereira@gmail.com
 
 <!---
 Tiagotp/Tiagotp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

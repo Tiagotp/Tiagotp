@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiagotp
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end (HTML, CSS, JAVASCRIPT, BOOTSTRAP)
+- 👀 I’m interested in Data Scientist
+- 🌱 I’m currently learning Python
 - 💞️I'm looking to collaborate in anything...
 - 📫 How to reach me ttavanopereira@gmail.com
 
